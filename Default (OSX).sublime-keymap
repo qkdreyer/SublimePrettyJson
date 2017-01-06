@@ -2,8 +2,14 @@
     {
         "keys": [
             "super+ctrl+j"
-        ], 
+        ],
         "command": "pretty_json"
+    },
+    {
+        "keys": [
+            "super+alt+m"
+        ],
+        "command": "un_pretty_json"
     },
     {
         "keys": ["super+ctrl+shift+j"],

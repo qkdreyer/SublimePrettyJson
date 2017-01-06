@@ -2,13 +2,13 @@
     {
         "keys": [
             "ctrl+alt+j"
-        ], 
+        ],
         "command": "pretty_json"
     },
     {
         "keys": [
             "ctrl+alt+m"
-        ], 
+        ],
         "command": "un_pretty_json"
     },
     {
@@ -22,5 +22,4 @@
             { "key": "selector", "operator": "equal", "operand": "source.json" }
         ]
     }
-
 ]
